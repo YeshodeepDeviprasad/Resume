@@ -25,10 +25,10 @@ Bachelor of Technology in Computer Science (Gaming Technology) with internship e
 
 ### **Game Programmer Intern** | Playforge Studio
 *Apr 2025 – Jul 2025*
-* Horror Game Mechanics:** Designed a mobile first-person horror game focusing on touch input and real-time player control using Unity's Enhanced Touch API.
-* AI Systems:** Built enemy AI patrol and chase logic using `NavMeshAgent`.
-* Interaction System:** Applied OOP principles to create a scalable interaction system (raycasting) for picking up items and opening doors.
-* Debugging:** Resolved concurrency issues, overlapping triggers, and audio synchronization bugs.
+* **Horror Game Mechanics:** Designed a mobile first-person horror game focusing on touch input and real-time player control using Unity's Enhanced Touch API.
+* **AI Systems:** Built enemy AI patrol and chase logic using `NavMeshAgent`.
+* **Interaction System:** Applied OOP principles to create a scalable interaction system (raycasting) for picking up items and opening doors.
+* **Debugging:** Resolved concurrency issues, overlapping triggers, and audio synchronization bugs.
 * [Play on Itch.io](https://yeshodeep.itch.io/scary-granny)
 * [Internship Certificate](https://drive.google.com/file/d/1m9yw60W3El7_Ouxpx3rA6VzSi690w7Je/view?usp=sharing)
 
