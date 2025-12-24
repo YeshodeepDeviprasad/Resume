@@ -1,7 +1,7 @@
 # Yeshodeep Dohre
 **Game Programmer | Unity Developer**
 
-[![Download Resume](https://drive.google.com/file/d/10WYj7SSJMQ_ZE0xAN783V588efzLGcaK/view?usp=sharing)](Yeshodeep Resume.pdf)
+[![Download Resume](https://github.com/YeshodeepDeviprasad/Resume/blob/main/Official%20Resume.pdf)](Yeshodeep Resume.pdf)
 
 📧 [dyeshodeep@gmail.com](mailto:dyeshodeep@gmail.com) | 📱 +91-9004925949  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yeshodeepdohre/) | 🐙 [GitHub Profile](https://github.com/YeshodeepDeviprasad)
